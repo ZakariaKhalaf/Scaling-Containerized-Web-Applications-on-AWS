@@ -7,4 +7,4 @@ This repository supports the [Linkedin post](https://www.linkedin.com/in/zakaria
 Thank you for your visit.
 
 ## Architecture Overview
-![alt text](https://github.com/ZakariaKhalaf/Scaling-Containerized-Web-Applications-on-AWS/Scaling-Containerized-Web-Applications-on-AWS.png?raw=true)
+![alt text](https://github.com/ZakariaKhalaf/Scaling-Containerized-Web-Applications-on-AWS/blob/master/Scaling-Containerized-Web-Applications-on-AWS.png?raw=true)
