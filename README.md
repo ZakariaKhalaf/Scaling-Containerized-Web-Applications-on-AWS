@@ -16,3 +16,5 @@ Thank you for your visit.
 ![alt text](https://github.com/ZakariaKhalaf/Scaling-Containerized-Web-Applications-on-AWS/blob/master/Scaling-Containerized-Web-Applications-on-AWS.png?raw=true)
 
 ![alt text](https://github.com/ZakariaKhalaf/Scaling-Containerized-Web-Applications-on-AWS/blob/Master/Scaling-Containerized-Web-Applications-on-AWS.png?raw=true)
+
+![alt text](https://github.com/ZakariaKhalaf/Scaling-Containerized-Web-Applications-on-AWS/blob/main/secondproject.jpg?raw=true)
