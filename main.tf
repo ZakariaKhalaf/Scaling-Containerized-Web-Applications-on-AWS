@@ -86,13 +86,13 @@ resource "aws_ecs_cluster_capacity_providers" "example" {
   capacity_providers = ["FARGATE","FARGATE_SPOT"]
 
   default_capacity_provider_strategy {
-    base              = 0
+    base              = 1
     weight            = 1
     capacity_provider = "FARGATE"
   }
   default_capacity_provider_strategy {
     base              = 0
-    weight            = 1
+    weight            = 2
     capacity_provider = "FARGATE_SPOT"
   }
 }
