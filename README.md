@@ -2,7 +2,7 @@
 
 deploy & scale your containerized web applications on AWS
 
-This repository supports the [Linkedin post](https://www.linkedin.com/in/zakaria-khalaf/)
+This repository supports the [Linkedin article](https://www.linkedin.com/pulse/scaling-containerized-web-applications-aws-zakaria-khalaf)
 
 Thank you for your visit.
 
